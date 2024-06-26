@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Airpods wireless bluetooth Headphones",
+        "description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality audio and bass audio for immersive listening experience",
+        "price": 89.99
+    },
+    {
+        "id": 2,
+        "name": "iPhone 11 Pro",
+        "description": "A large phone with one of the best screens",
+        "price": 799
+    },
+    {
+        "id": 3,
+        "name": "Cannon EOS 80D DSLR Camera",
+        "description": "An EOS 80D is an 80MP full-frame mirrorless camera",
+        "price": 929.99
+    },
+    {
+        "id": 4,
+        "name": "Sonya Play Station 5",
+        "description": "The ultimate home entertainment center",
+        "price": 399.99
+    }
+]
